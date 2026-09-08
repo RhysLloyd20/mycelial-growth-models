@@ -39,6 +39,8 @@ Edelstein-Keshet, L. & Ermentrout, B. (1989). SIAM J. Appl. Math. 49, 1136–115
 
 Ermentrout, G.B. & Edelstein-Keshet, L. (1993). J. Theor. Biol. 160, 97–133. doi:[10.1006/jtbi.1993.1007](https://doi.org/10.1006/jtbi.1993.1007)
 
+Hopkins, S.M. (2011). A hybrid mathematical model of fungal mycelia: Tropisms, polarised growth and application to colony competition. PhD Thesis, University of Glamorgan.
+
 Hopkins, S.M. & Boswell, G.P. (2012). Fungal Ecol. 5, 124–136. doi:[10.1016/j.funeco.2011.06.006](https://doi.org/10.1016/j.funeco.2011.06.006)
 
 Nychka, D., Furrer, R., Paige, J., Sain, S. (2021). fields: Tools for spatial data. R package. doi:[10.5065/D6W957CT](https://doi.org/10.5065/D6W957CT)
