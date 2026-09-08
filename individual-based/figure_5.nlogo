@@ -4,6 +4,7 @@
 ; One cell at origin with eight tips at 45 degrees
 to setup
   clear-all
+  random-seed 123
   ask patches [ set pcolor white ]
 
   ask patch 0 0 [
